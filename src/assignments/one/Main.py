@@ -7,7 +7,7 @@ Created on 7 feb. 2017
 if __name__ == '__main__':
     pass
 
-from root.nested import Shape;
+from assignments.one import Shape;
 
-rectangle = Shape.Shape(3, 3);
+rectangle = Shape.Shape(4, 3);
 print(rectangle.area());
