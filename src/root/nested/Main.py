@@ -9,5 +9,5 @@ if __name__ == '__main__':
 
 from root.nested import Shape;
 
-rectangle = Shape.Shape(2, 3);
+rectangle = Shape.Shape(3, 3);
 print(rectangle.area());
