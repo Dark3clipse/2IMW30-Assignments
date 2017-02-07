@@ -9,5 +9,5 @@ if __name__ == '__main__':
 
 from assignments.one import Shape;
 
-rectangle = Shape.Shape(4, 3);
+rectangle = Shape.Shape(5, 6);
 print(rectangle.area());
