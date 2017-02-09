@@ -18,3 +18,7 @@ class Shape(object):
         
     def area(self):
         return self.x * self.y;
+    
+    @staticmethod
+    def isStatic():
+        return True;
